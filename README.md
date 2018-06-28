@@ -13,4 +13,4 @@
  9.  Anonymous user Handle and Acceses of Restriction
  10. All the web pages work with Bootrap4 and also support templating with css and jquery.
 
-# main goal is just manage easy and best way to handle and type of user with security and database functionality.
+# main goal is just manage easy and best way to handle any type of user with security and database functionality.
